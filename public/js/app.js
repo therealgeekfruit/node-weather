@@ -1,8 +1,6 @@
 // const { response } = require("express");
 // const fetch = require("node-fetch");
 
-// console.log("Client side javascript file is loaded!");
-
 const search = document.querySelector("input");
 const weatherForm = document.querySelector("form");
 const messageOne = document.querySelector("#message-1");

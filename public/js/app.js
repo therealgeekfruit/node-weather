@@ -20,7 +20,7 @@ weatherForm.addEventListener(
         } else {
           messageOne.textContent = data.location;
           messageTwo.textContent = data.forecast;
-          // console.log(data.forecast);
+          console.log(data.forecast);
           // console.log(data.address);
         }
       });
